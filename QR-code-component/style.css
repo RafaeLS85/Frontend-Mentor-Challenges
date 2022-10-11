@@ -27,6 +27,7 @@ body {
   justify-content: center;
   height: calc(100vh - 1px);
   margin: 1.25rem;
+  overflow: hidden;
 }
 
 .container {
